@@ -30,3 +30,10 @@ L'ensemble de la suite peut prendre du temps. Si vous voulez tester un Design Pa
 ```bash
 php ./vendor/bin/phpunit --filter FactoryMethodTest
 ```
+
+### Sommaire
+
+### [Creational](Creational)
+
+* [FactoryMethod](https://roukmoute.github.io/design_patterns/2017/12/30/factory_method_les_fondements/) ([Wikipedia](https://fr.wikipedia.org/wiki/Fabrique_(patron_de_conception)))
+  * [Example du Gof](https://roukmoute.github.io/design_pattern/php/2018/02/11/factory_method_exemple/) ([Source](Creational/FactoryMethod/Gof))
